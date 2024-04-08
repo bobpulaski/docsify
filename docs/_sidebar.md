@@ -7,7 +7,7 @@
   * [Установка](installation.md)
   * [Проект](create-project.md)
   * [Парсер](add-parser.md)
-  * [Добавление ссылок (URL)](add-urls.md)
+  * [Ссылки (URL)](add-urls.md)
   * [Правила парсинга](rules.md)
   * [Парсинг и экспорт результатов](scrapping-and-export.md)
 
